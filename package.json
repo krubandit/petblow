@@ -1,0 +1,6 @@
+{
+  "name": "samdeeniyom-pet-bowl",
+  "private": true,
+  "type": "commonjs",
+  "description": "SAMDEENIYOM name-engraved pet bowl order server (standalone Node app, no dependencies)"
+}
